@@ -15,6 +15,7 @@ const faqs = [
     text: "Excepturi velit laborum, perspiciatis nemo perferendis reiciendis aliquam possimus dolor sed! Dolore laborum ducimus veritatis facere molestias!",
   },
 ];
+const x = 0; //adaugare variabila x / test
 
 export default function App() {
   return (
